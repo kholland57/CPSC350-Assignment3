@@ -22,7 +22,7 @@ References:
 - The GenStack was based on the in-class example we walked through, with
 a lot of the same methods
 - In SyntaxCheck.cpp for the method checkSyntax(), I referenced from the Data Structures and Algorithms, C++ 2nd Edition book by Goodrich. I closely referenced the pseudo code in chapter 5.1, Stacks on page 205 to check the brackets and implement the stacks.
--https://stackoverflow.com/questions/1350630/how-to-expand-an-array-dynamically-in-c-like-in-vector
+- https://stackoverflow.com/questions/1350630/how-to-expand-an-array-dynamically-in-c-like-in-vector
 
 
 Comments/Errors:
